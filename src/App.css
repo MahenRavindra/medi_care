@@ -1,0 +1,12 @@
+/* landing page */
+
+
+/* slider  */
+
+.slider-controller i {
+    margin: 4px;
+}
+
+.slider-controller i:hover {
+    cursor: pointer;
+}
